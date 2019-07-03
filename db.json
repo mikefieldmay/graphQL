@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Samantha",
+      "age": 21,
+      "companyId": "1"
+    },
+    {
+      "id": "29",
+      "firstName": "fartface",
+      "age": 28,
+      "companyId": "2",
+      "userId": "29"
+    },
+    {
+      "id": "30",
+      "firstName": "Mike",
+      "age": 30,
+      "companyId": "1"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "iphone"
+    }
+  ]
+}
